@@ -3,7 +3,7 @@
 # *Oieeeee...Prazer, Ana Rodrigues* 🥰🖖  ***Seja Bem Vindo!*** ✌️
 
 ##### 💼 Hoje trabalho com *Front-end* e *UX/UI Design*.
-##### 🚀 Estudando *Programação Web* e *Gestão de Qualidade*.
+##### 🚀 Estudando *Programação Web no IOS Recife* e *Gestão de Qualidade na UNINABUCO Recife*.
 ##### ✨ 
 ##### 🤗
 ##### ❤ Amo *Programar, Criar, Descobrir, Compartilhar e Reinventar*.
@@ -14,6 +14,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MidnightWolf15&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
  
+  
+## Estudos Atuais em:
 <div style="display: inline_block"><br>
   <img align="center" alt="Ana-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Ana-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
